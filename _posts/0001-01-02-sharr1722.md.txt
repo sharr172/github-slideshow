@@ -1,5 +1,0 @@
----
-layout: slide
-title:
-----
-This is slide.
